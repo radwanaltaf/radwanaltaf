@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radwanaltaf" alt="radwanaltaf" /></a> </p>
 
-- 🔭 I’m currently working on **building an e-hailing SaaS**
+- 🔭 I’m currently working on **an AI tool for Social Media Management & personal brand growth**
 
 - 🌱 I’m currently learning **AWS & Serverless Architecture**
 
